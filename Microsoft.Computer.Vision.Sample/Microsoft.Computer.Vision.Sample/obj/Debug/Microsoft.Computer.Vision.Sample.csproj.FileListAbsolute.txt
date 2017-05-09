@@ -1,0 +1,8 @@
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\bin\Debug\Microsoft.Computer.Vision.Sample.exe.config
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\bin\Debug\Microsoft.Computer.Vision.Sample.exe
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\bin\Debug\Microsoft.Computer.Vision.Sample.pdb
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\obj\Debug\Microsoft.Computer.Vision.Sample.csprojResolveAssemblyReference.cache
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\obj\Debug\Microsoft.Computer.Vision.Sample.exe
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\obj\Debug\Microsoft.Computer.Vision.Sample.pdb
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\bin\Debug\Newtonsoft.Json.dll
+c:\users\lucas\onedrive\documentos\visual studio 2015\Projects\Microsoft.Computer.Vision.Sample\Microsoft.Computer.Vision.Sample\bin\Debug\Newtonsoft.Json.xml
